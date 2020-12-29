@@ -98,7 +98,7 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  padding-top: 5.731vw;  
+
 }
 .card {
   background-color: transparent;
@@ -109,7 +109,7 @@ body {
   transform-style: preserve-3d;
   cursor: pointer;
   padding: 0px 16.542vw 19.542vw 0;
-  margin: 7% 0;
+  margin: 2.5% 0;
 }
 
 .card_hover:hover {

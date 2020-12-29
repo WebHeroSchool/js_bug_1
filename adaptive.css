@@ -75,17 +75,15 @@
 
 
 .card_hover {
-    width: 31px;
-    height: 60px;
+    width: 21px;
+    height: 40px;
  
 }
-.ten {
-    width: 100%;
-}
+
 .flipped {
   transform: rotateY(180deg);
-  width: 31px;
-  height: 60px;
+  width: 21px;
+  height: 40px;
      }
 }
 
